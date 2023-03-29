@@ -1,12 +1,20 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://raw.githubusercontent.com/emuotoriac/.github/master/profile/banner.png" height="200" alt="emu">
+  <h1>凤笑梦研究学会</h1>
+  <b>わんわん……わんだほーいっ☆</b>
+</div>
 
-<!--
+---
 
-**Here are some ideas to get you started:**
+- Official QQ Group / 官方QQ群（临时）：111922228
+- Official Website / 官方网站：https://emu.ac.cn
+- Contact / 联系负责人：emuotori.sekai@gmail.com
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+```
+本组织旨在研究Otori Emu与衍生技术，与SEGA、Project Sekai等没有关系。
+本组织不存在盈利，仅为技术交流。
+若你认为我们的相关内容侵犯到了你的版权，请致函致邮箱，我们对此深表歉意。
+The purpose of this organization is to study Otori Emu and derivative technologies, which have no relationship with SEGA, Project Sekai, etc.
+The organization is not profitable, only for technical exchange.
+If you believe that our relevant content infringes your copyright, please send a letter to email, and we apologize for this.
+```
