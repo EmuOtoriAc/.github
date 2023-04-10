@@ -8,7 +8,7 @@
 
 - Official QQ Group / 官方QQ群（临时）：111922228
 - Official Website / 官方网站：https://emu.ac.cn
-- Contact / 联系负责人：emuotori.sekai@gmail.com
+- Contact / 联系负责人：emu-ws@outlook.com
 
 ```
 本组织旨在研究Otori Emu与衍生技术，与SEGA、Project Sekai等没有关系。
